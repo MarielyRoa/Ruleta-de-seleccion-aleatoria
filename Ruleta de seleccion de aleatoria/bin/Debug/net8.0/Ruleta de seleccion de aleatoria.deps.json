@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Ruleta de seleccion de aleatoria/1.0.0": {
+        "runtime": {
+          "Ruleta de seleccion de aleatoria.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ruleta de seleccion de aleatoria/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

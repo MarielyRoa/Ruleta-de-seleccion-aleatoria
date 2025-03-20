@@ -1,0 +1,14 @@
+c:\Users\Public\Competencia\Ruleta de seleccion de aleatoria\bin\Debug\net8.0\Ruleta de seleccion de aleatoria.exe
+c:\Users\Public\Competencia\Ruleta de seleccion de aleatoria\bin\Debug\net8.0\Ruleta de seleccion de aleatoria.deps.json
+c:\Users\Public\Competencia\Ruleta de seleccion de aleatoria\bin\Debug\net8.0\Ruleta de seleccion de aleatoria.runtimeconfig.json
+c:\Users\Public\Competencia\Ruleta de seleccion de aleatoria\bin\Debug\net8.0\Ruleta de seleccion de aleatoria.dll
+c:\Users\Public\Competencia\Ruleta de seleccion de aleatoria\bin\Debug\net8.0\Ruleta de seleccion de aleatoria.pdb
+c:\Users\Public\Competencia\Ruleta de seleccion de aleatoria\obj\Debug\net8.0\Ruleta de seleccion de aleatoria.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Public\Competencia\Ruleta de seleccion de aleatoria\obj\Debug\net8.0\Ruleta de seleccion de aleatoria.AssemblyInfoInputs.cache
+c:\Users\Public\Competencia\Ruleta de seleccion de aleatoria\obj\Debug\net8.0\Ruleta de seleccion de aleatoria.AssemblyInfo.cs
+c:\Users\Public\Competencia\Ruleta de seleccion de aleatoria\obj\Debug\net8.0\Ruleta de seleccion de aleatoria.csproj.CoreCompileInputs.cache
+c:\Users\Public\Competencia\Ruleta de seleccion de aleatoria\obj\Debug\net8.0\Ruleta de seleccion de aleatoria.dll
+c:\Users\Public\Competencia\Ruleta de seleccion de aleatoria\obj\Debug\net8.0\refint\Ruleta de seleccion de aleatoria.dll
+c:\Users\Public\Competencia\Ruleta de seleccion de aleatoria\obj\Debug\net8.0\Ruleta de seleccion de aleatoria.pdb
+c:\Users\Public\Competencia\Ruleta de seleccion de aleatoria\obj\Debug\net8.0\Ruleta de seleccion de aleatoria.genruntimeconfig.cache
+c:\Users\Public\Competencia\Ruleta de seleccion de aleatoria\obj\Debug\net8.0\ref\Ruleta de seleccion de aleatoria.dll
